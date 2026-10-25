@@ -1,0 +1,1 @@
+# Create a function, using Python, where the user enters the minutes and converts this time into the equivalent hours and minutes. The displayed time should be grammatically correct. 
